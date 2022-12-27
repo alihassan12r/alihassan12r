@@ -1,5 +1,5 @@
 ### Ali Hassan  👋
-- [@alihassan12r](https://github.com/alihassan12r)
+- [@alihassan12r](https://github.com/alihassan12r) | [@alihdev](https://github.com/alihdev)
 - full stack developer
 
 <!--
